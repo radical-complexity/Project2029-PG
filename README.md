@@ -1,2 +1,2 @@
 # Project2029
-A Progressive Agenda a Vision for Our Country 
+A Progressive Agenda and Vision for Our Country 
