@@ -45,5 +45,23 @@ and of course, the entire process is shaped by the Electoral College. The result
 some states' citizens have no opportunity to interact with some of the candidates, and
 their votes are ultimately considered less valuable.
 
+## Specific states with problematic voting laws
 
+## Mail-in and absentee ballots
+
+The requirement that mail-in ballots be received before the close polls seems appealing,
+but also opens a path to abuse: a post office (which is a federal agency) could put aside
+ballots from a specific neighborhood or even from specific households, delivering them only
+after the deadline has passed, and claiming that this was part of normal operations or was
+the result of some exigent circumstance. What should happen instead, of course, is the
+solemn commitment to counting every individual's vote; this should be guaranteed, and not
+left up to the uncertainty in the mail delivery system.
+
+## Voter registration
+
+
+## Election Night
+It has long been a tradition that the election be 'called' on election night. In an era in
+which communication is seemingly instant, this would appear to be something that could not
+only be continued but improved. However, if we permit ballots to be counted
 
