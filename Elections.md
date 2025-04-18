@@ -19,13 +19,26 @@ With this in mind, a Progressive series of actions in 2027 and 2029 will:
 - Ensure that electoral boards do not improperly claim the authority to refuse to certify votes
 
 
+## Mail-in and absentee ballots
+
+The requirement that mail-in ballots be received before the close polls seems appealing,
+but also opens a path to abuse: a post office (which is a federal agency) could put aside
+ballots from a specific neighborhood or even from specific households, delivering them only
+after the deadline has passed, and claiming that this was part of normal operations or was
+the result of some exigent circumstance. What should happen instead, of course, is the
+solemn commitment to counting every individual's vote; this should be guaranteed, and not
+left up to the uncertainty in the mail delivery system.
+
 ## Democratic Primaries
+
+### Action: Revise the Democratic Primary schedule ###
+### Action: Condense Primary Elections to a single night for the nation
 
 The Presidential Election of 2024 was catastrophic for the Democratic Party because
 it initially declined to have a meaningful primary. Instead, Democrats were expected
 to support President Biden's re-election bid, despite legitimate concerns about his
 ability to win the election as well as his fitness for office for four additional years.
-The primary was conducted, but he ran without any legitimate opposition, and no
+The primary was conducted, but he ran without any legitimate opposition, and with no
 primary debates or other opportunities for Democratic voters to judge him in a contested
 setting. This later proved disastrous when he failed to make a legitimate showing in the
 debate against his opponent in the general election, causing him to withdraw his candidacy,
@@ -47,18 +60,7 @@ their votes are ultimately considered less valuable.
 
 ## Specific states with problematic voting laws
 
-## Mail-in and absentee ballots
-
-The requirement that mail-in ballots be received before the close polls seems appealing,
-but also opens a path to abuse: a post office (which is a federal agency) could put aside
-ballots from a specific neighborhood or even from specific households, delivering them only
-after the deadline has passed, and claiming that this was part of normal operations or was
-the result of some exigent circumstance. What should happen instead, of course, is the
-solemn commitment to counting every individual's vote; this should be guaranteed, and not
-left up to the uncertainty in the mail delivery system.
-
 ## Voter registration
-
 
 ## Election Night
 It has long been a tradition that the election be 'called' on election night. In an era in
