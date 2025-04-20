@@ -1,2 +1,9 @@
 # Foreign Policy
 
+## War and Foreign Conflict
+The Constitution explicitly gives Congress the power to declare war (Article I, Section 8, Clause 11). Over the past decades, dating nearly back to the end of World War II, the executive branch has conducted military operations throughout the world without a declaration of war. Congress has authorized some of these while also granting the executive broad authority to act without a declaration. These actions include examples on small scales, such as targeted strikes, or on large scales that under any other system would clearly be considered war (Korea, Vietnam, Iraq, Afghanistan). These large, years-long exercises without a declaration of war are arguably an outcome of a constitutional system that allows flexibility to accord the executive necessary power to act in ways that Congress would find challenging; but they are also an example of a system that was intended to place power in the Article I branch, that has over time been moved to the executive.
+
+The current administration has pushed executive power even further, by insisting that certain powers that it is according in war (i.e., the Alien and Sedition Act), can be exercised against countries based on the assertion that a state of conflict exists. In the current example, this is even extended so far as to state - without evidence - that individuals from a given country are state actors in an otherwise unrecognized state of conflict between our country and theirs.
+
+The wisdom of the Constitution is that it permits the executive to take action to defend the country; the extension beyond that, to include any actions that the executive deems desirable, even to the point of conducting effective wars for decades against countries against which no declaration of war by Congress has been made, must be reconsidered.
+
