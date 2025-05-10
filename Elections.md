@@ -29,7 +29,9 @@ the result of some exigent circumstance. What should happen instead, of course, 
 solemn commitment to counting every individual's vote; this should be guaranteed, and not
 left up to the uncertainty in the mail delivery system.
 
+
 ## Democratic Primaries
+:-:JTM:This rocks!
 
 ### Action: Revise the Democratic Primary schedule ###
 ### Action: Condense Primary Elections to a single night for the nation
@@ -62,8 +64,31 @@ their votes are ultimately considered less valuable.
 
 ## Voter registration
 
+## Mail-in voting
+
+## The Electoral College
+
 ## Election Night
 It has long been a tradition that the election be 'called' on election night. In an era in
 which communication is seemingly instant, this would appear to be something that could not
 only be continued but improved. However, if we permit ballots to be counted
+
+## Ranked Choice Voting
+First-past-the-post voting and majority-rules voting have led to a system in which voters
+must operate strategically, gauge the way their fellow citizens might vote, and vote
+for candidates who do not really reflect their own views. In several cases - perhaps most
+importantly the 2000 and 2016 presidential elections - the presence of a third-party
+candidate ultimately split the vote on the Democratic side and led to the election
+of a Republican. The reverse is also possible, of course.
+
+There is a mathematical theory for why an election with three candidates may not necessarily
+be able to yield the canidate that is the most popular; see Arrows Impossibility Theorem.
+
+
+To overcome this, many other countries use ranked-choice voting, or another variation 
+called instant-runoff. These have been adopted in a few places in the US. In places where
+they have been implemented, they seem to work well. Most importantly, they allow voters
+to express dissatisfaction with a major party without 'throwing away' their votes.
+
+
 
