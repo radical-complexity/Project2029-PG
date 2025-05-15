@@ -1,10 +1,13 @@
 # Project 2029
-A Progressive for America after Trump
+## A Progressive Vision for America after Trump
 
-## A progressive vision; a sacred trust
+>> And, for the support of this Declaration, with a firm
+>> reliance on the protection of Divine Providence, we
+>> mutually pledge to each other our lives, our
+>> fortunes, and our sacred honor.
 
 What we outline here is a vision for what the world could be, and what the
-collected contributos to this vision want it to be. Our intention is to push
+collected contributors to this vision want it to be. Our intention is to push
 for this vision, and to elect candidates who support it.
 
 But this comes with a sacred trust: Our system is a representative democracy,
