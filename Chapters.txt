@@ -9,5 +9,7 @@ MediaAndPress
 Elections
 Trade
 EthicsAndConflictsOfInterest
+ReligiousFreedomAndExpression
 AmericasMilitary
+Redistricting
 SpecialTopics
