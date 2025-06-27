@@ -2,7 +2,7 @@ Foreword
 EducationAndUniversities
 Healthcare
 FoodSystem
-Foreign_Policy
+ForeignPolicy
 NationalEmergencies
 BudgetAndDeficit
 MediaAndPress
