@@ -6,7 +6,7 @@
 
 ## Contracting
 
-See: https://www.nytimes.com/2025/05/13/opinion/us-army-weapons-reform.html
+See: McCarthy's essay [@mccarthy_opinion_2025]
 
 ## Inventory and Auditing
 

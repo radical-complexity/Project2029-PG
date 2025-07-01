@@ -1,4 +1,4 @@
-# Project 2029: Elections
+# Elections
 
 The previous ten years have been marked by repeated claims of election fraud.
 These have been voiced loudly, have taken a number of forms, and have dominated
