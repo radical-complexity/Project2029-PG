@@ -1,13 +1,14 @@
 Foreword
-EducationAndUniversities
 Healthcare
+PublicHealth
 FoodSystem
+Elections
+EducationAndUniversities
+Trade
 ForeignPolicy
 NationalEmergencies
 BudgetAndDeficit
 MediaAndPress
-Elections
-Trade
 EthicsAndConflictsOfInterest
 ReligiousFreedomAndExpression
 AmericasMilitary

@@ -1,5 +1,7 @@
 # Special Topics
 
+## Birthright Citizenship
+
 ## Presidential Immunity from Prosecution
 
 ## Right-to-Repair
@@ -26,8 +28,6 @@
 
 ## Privacy
 
-## Public Lands
-
 ### Corporate data on individuals
 
 ### Government data on individuals
@@ -35,7 +35,7 @@
 Individuals should be able to request details of what data the government
 keeps of them, akin to corporations
 
-### Impeachment
+## Impeachment
 
-
+## Public Lands
 
