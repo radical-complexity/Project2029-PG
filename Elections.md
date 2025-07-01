@@ -71,7 +71,11 @@ their votes are ultimately considered less valuable.
 ## Election Night
 It has long been a tradition that the election be 'called' on election night. In an era in
 which communication is seemingly instant, this would appear to be something that could not
-only be continued but improved. However, if we permit ballots to be counted
+only be continued but improved. However, if we permit ballots to be counted that were mailed
+and postmarked on election day, then by definition counting will need to continue beyond
+election day, and the expectation should be that it is perfectly reasonable for the outcome
+to not be known for several more days. This is a case of managing expectations and re-setting
+what has become a cultural norm.
 
 ## Ranked Choice Voting
 First-past-the-post voting and majority-rules voting have led to a system in which voters
