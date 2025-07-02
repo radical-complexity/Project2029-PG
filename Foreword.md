@@ -1,5 +1,5 @@
-# Project 2029
-## A Progressive Vision for America after Trump
+# Foreword: Project 2029
+## *A Progressive Vision for America after Trump
 
 >> And, for the support of this Declaration, with a firm
 >> reliance on the protection of Divine Providence, we
