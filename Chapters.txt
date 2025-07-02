@@ -1,3 +1,4 @@
+PART:Foreword
 Foreword
 PART:Healthcare and Public Health
 Healthcare
@@ -18,3 +19,6 @@ BudgetAndDeficit
 EthicsAndConflictsOfInterest
 Redistricting
 SpecialTopics
+PART:Conclusions
+ClosingComments
+PART:Bibliography
