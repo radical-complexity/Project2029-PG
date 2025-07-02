@@ -12,6 +12,9 @@ PART:Education, Media, and Religious Freedom
 EducationAndUniversities
 MediaAndPress
 ReligiousFreedomAndExpression
+PART:Infrastructure and Jobs
+Jobs
+Infrastructure
 PART:Governance
 Elections
 NationalEmergencies
