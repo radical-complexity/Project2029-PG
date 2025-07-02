@@ -1,16 +1,20 @@
 Foreword
+PART:Healthcare and Public Health
 Healthcare
 PublicHealth
 FoodSystem
-Elections
-EducationAndUniversities
+PART:Trade, Foreign Policy, and the Military
 Trade
 ForeignPolicy
+AmericasMilitary
+PART:Education, Media, and Religious Freedom
+EducationAndUniversities
+MediaAndPress
+ReligiousFreedomAndExpression
+PART:Governance
+Elections
 NationalEmergencies
 BudgetAndDeficit
-MediaAndPress
 EthicsAndConflictsOfInterest
-ReligiousFreedomAndExpression
-AmericasMilitary
 Redistricting
 SpecialTopics
