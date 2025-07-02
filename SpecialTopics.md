@@ -20,8 +20,6 @@
 
 ### Commonwealth of Northern Marianas Islands
 
-### Greenland
-
 ### Guantanamo Bay
 
 ## Cultural Heritage and Patrimony
