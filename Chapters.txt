@@ -16,7 +16,6 @@ Jobs
 Infrastructure
 PART:Governance
 Elections
-NationalEmergencies
 BudgetAndDeficit
 EthicsAndConflictsOfInterest
 Redistricting
