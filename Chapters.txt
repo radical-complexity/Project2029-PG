@@ -8,7 +8,7 @@ PART:Trade, Foreign Policy, and the Military
 Trade
 ForeignPolicy
 AmericasMilitary
-PART:Education, Media
+PART:Education and Media
 EducationAndUniversities
 MediaAndPress
 PART:Infrastructure and Jobs
