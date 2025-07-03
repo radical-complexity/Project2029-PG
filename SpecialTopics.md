@@ -32,10 +32,8 @@
 
 ### Government data on individuals
 
-Individuals should be able to request details of what data the government
-keeps of them, akin to corporations
-
 ## Impeachment
 
 ## Public Lands
 
+## National Emergencies

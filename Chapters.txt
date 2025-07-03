@@ -8,10 +8,9 @@ PART:Trade, Foreign Policy, and the Military
 Trade
 ForeignPolicy
 AmericasMilitary
-PART:Education, Media, and Religious Freedom
+PART:Education, Media
 EducationAndUniversities
 MediaAndPress
-ReligiousFreedomAndExpression
 PART:Infrastructure and Jobs
 Jobs
 Infrastructure

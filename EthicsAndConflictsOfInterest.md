@@ -3,6 +3,7 @@
 ## Profiting from the Presidency
 
 ### Cryptocurrency
+
 ### Marketing and 'Merch'
 
 ## Congressional Representatives
