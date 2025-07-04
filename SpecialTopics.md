@@ -34,6 +34,14 @@
 
 ## Impeachment
 
+### Notes:
+
+- Paulsen [@Paulsen_Presidents_2017] argues that Congress's impeachment power is absolute.
+
 ## Public Lands
 
 ## National Emergencies
+
+### Notes:
+
+- The Brennan Center for Justice maintains a list [@BrennanCenterforJustice_Guide_2025] of the powers given to the President in national emergencies of different kinds.
