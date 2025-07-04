@@ -45,3 +45,5 @@
 ### Notes:
 
 - The Brennan Center for Justice maintains a list [@BrennanCenterforJustice_Guide_2025] of the powers given to the President in national emergencies of different kinds.
+- The Brennan Center for Justice also maintains a list [@BrennanCenterforJustice_Declared_2025] of all national emergencies declared (89) and those currently/still in efffect today (51).
+- In early 2025 House Republicans declared that the rest of the first year of the 119th Congress would not count as calendar days to avoid Democrats forcing a vote[@Brooks_House_2025].  
