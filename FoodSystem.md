@@ -5,5 +5,5 @@ Every American should have access to healthy food, and the food
 in our country should be the healthiest in the world.
 
 ## The GRAS Loophole
-See the essay by Julia Belluz[@belluz_opinion_2025].
+See the essay by Julia Belluz[@Belluz_Opinion_2025].
 

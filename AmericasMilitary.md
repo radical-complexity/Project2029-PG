@@ -6,7 +6,7 @@
 
 ## Contracting
 
-See: McCarthy's essay [@mccarthy_opinion_2025]
+See: McCarthy's essay [@McCarthy_Opinion_2025]
 
 ## Inventory and Auditing
 
